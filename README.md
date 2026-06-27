@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m @harshrai515<br> Pursuing MCA from BVICAM <br>🔭 BCA Graduate from SNC<br>👯 I’m seeking opportunities to apply my knowledge and gain practical experience <br>🤝 I'm eager to contribute to dynamic projects and continue learning in a professional setting<br>🌱 I’m passionate about software development, web development and cybersecurity<br>💬 I enjoy solving problems and creating innovative solutions<br>⚡ Interested in AI and Machine Learning
+👋 Hi, I’m @harshrai515<br>💻 Pursuing MCA from BVICAM <br>🔭 BCA Graduate from SNC<br>👯 I’m seeking opportunities to apply my knowledge and gain practical experience <br>🤝 I'm eager to contribute to dynamic projects and continue learning in a professional setting<br>🌱 I’m passionate about software development, web development and cybersecurity<br>💬 I enjoy solving problems and creating innovative solutions<br>⚡ Interested in AI and Machine Learning
 
 
 ## 🌐 Socials:
